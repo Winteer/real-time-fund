@@ -384,7 +384,7 @@ body {
 
 .table-row {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1.5fr 60px;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1.5fr 60px;
   align-items: center;
   gap: 12px;
   padding: 12px 24px !important;
@@ -402,7 +402,7 @@ body {
 
 .table-header-row {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1.5fr 60px;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1.5fr 60px;
   gap: 12px;
   padding: 16px 24px;
   background: rgba(255, 255, 255, 0.05);
